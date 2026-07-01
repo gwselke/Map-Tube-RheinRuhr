@@ -1,5 +1,10 @@
 Revision history for Perl extension Map::Tube::RheinRuhr.
 
+0.2.6 ***Not yet released***
+  - Switched README to markdown.
+  - Added information on contributing.
+  - Augmented documentation.
+
 0.2.5 2026-06-26
   - Fixed Makefile.PL issue preventing data file from being installed.
 

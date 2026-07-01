@@ -1,0 +1,1734 @@
+;Rhein/Ruhr U- and S-Bahn and Trams:vrr
+# Essen
+# 101 and 106 are each unidirectional in different directions, except near Philippusstift.
+:101/106:#916212
+Philippusstift
+>Germaniaplatz
+>Leimgardtsfeld>Philippusstift
+An Don Bosco
+Altenberg
+Zinkstr.
+Bergeborbeck Bf
+Bocholder Str.
+Bergmühle
+Jahnplatz
+Hamborner Str.
+Helenenstr.=Sälzer Str.
+Kronenberg
+thyssenkrupp
+Berliner Platz
+Rheinischer Platz
+Essen Rathaus
+Essen Hbf
+Aalto-Theater
+Kronprinzenstr. (Essen)
+Moltkestr.
+Cäcilienstr.
+Rüttenscheider Markt
+Rüttenscheider Stern
+Zweigertstr.
+Landgericht Essen
+Klinikum
+Holsterhauser Platz
+Rubensstr.
+Hobeisenbrücke
+Alfred-Krupp-Schule
+Essen West
+Sälzer Str.=Helenenstr.
+# Mülheim
+:102:#806CB1
+Oberdümpten
+Talstr.
+Dümpten Friedhof
+Auf dem Bruch
+Gathestr.
+Zehntweg
+Bessemerstr.
+Mühlenstr.
+Buchenberg
+Aktienstr.
+Mülheim Hbf
+Stadtmitte
+Schloss Broich
+Broicher Mitte
+Thüringer Str.
+Broich Friedhof
+Heuweg
+Waldschlösschen
+Uhlenhorst
+# Essen
+:103:#F9CE06
+Dellwig Wertstr.
+Dellwig Bf
+Reuenberg
+Münstermann
+Gerschede
+Donnerstr.
+Armstr.
+Philippusstift
+Germaniaplatz
+Borbeck Bf
+Schloss Borbeck
+Fliegenbusch
+Borbeck Süd Bf
+Bockmühle
+Röntgenstr. (Essen)
+Helenenstr.
+Kronenberg
+thyssenkrupp
+Berliner Platz
+Rheinischer Platz
+Essen Rathaus
+Hollestr.
+Wasserturm
+Wörthstr.
+Schwanenbuschstr.
+Parkfriedhof
+Dinnendahlstr.
+Knappschaftskrankenhaus Essen
+Stadtgarten Essen
+Steele
+# Mülheim, Borbeck
+:104:#D2B500
+Abzweig Aktienstr.
+Lautstr.
+Bonnemannstr.
+Grenze Borbeck
+Nordstr. (Mülheim)
+Kirchberg
+Kreuzfeldstr.
+Eichenberg
+Aktienstr.
+Rotkreuzzentrum
+Friedrich-Ebert-Str.
+Rathausmarkt
+Stadtmitte
+Kaiserplatz
+# Essen, Borbeck
+:105:#B6CC00
+Frintrop Unterstr.
+Im Neerfeld
+Frintroper Höhe
+Am Kreyenkrop
+Franziskus Haus
+Abzweig Aktienstr.
+Heißener Str.
+Fliegenbusch
+Borbeck Süd Bf
+Bockmühle
+Röntgenstr. (Essen)
+Helenenstr.
+Kronenberg
+thyssenkrupp
+Berliner Platz
+Rheinischer Platz
+Essen Rathaus
+Essen Hbf
+Aalto-Theater
+Kronprinzenstr. (Essen)
+Moltkestr.
+Essen Süd
+Töpferstr.
+Essen Weserstr.
+Zeche Ludwig
+Oststr. (Essen)
+Schnabelstr.
+Rellinghausen Rathaus
+Rellinghausen Finefraustr.
+# Essen, Gelsenkirchen
+:107:#D3141C
+Gelsenkirchen Hbf
+Heinrich-König-Platz
+Musiktheater
+Overwegstr.
+Feldmarkstr.
+Holbeinstr.
+Hans-Böckler-Allee
+Fürstinnenstr.
+Revierpark Nienhausen
+Trabrennbahn Essen
+Triple Z
+Hanielstr.
+Katernberger Markt=Hanielstr. Schleife
+Zollverein Nord Bf
+Abzweig Katernberg=Abzw. Katernberg Schleife
+Zollverein
+Kapitelwiese
+Nikolausstr.
+Ernestinenstr.
+Krkhs Stoppenberg
+Herbertshof
+Herzogstr.
+Am Freistein
+Viehofer Platz
+Essen Rathaus
+Essen Hbf
+Philharmonie
+Rüttenscheider Stern
+Martinstr.
+Florastr.
+Alfredusbad
+Kruppallee
+Frankenstr.
+Bredeney
+# 107: Hanielstr. and Abzw. Katernberg Schleife are independently alternative terminals
+!Hanielstr. Schleife=Katernberger Markt
+!Abzw. Katernberg Schleife=Abzweig Katernberg
+# Essen
+:108:#E2A703
+Altenessen Bf
+Höltestr.
+Seumannstr.
+Katzenbruchstr.
+Am Freistein
+Viehofer Platz
+Essen Rathaus
+Essen Hbf
+Philharmonie
+Rüttenscheider Stern
+Martinstr.
+Florastr.
+Alfredusbad
+Kruppallee
+Frankenstr.
+Bredeney
+# Essen
+:109:#009639
+Frohnhausen Breilsort
+Kieler Str.
+Onckenstr.
+Gervinusstr.
+Am Riehlpark
+Alfred-Krupp-Schule
+Schederhofstr.
+Frohnhauser Str.
+thyssenkrupp
+Berliner Platz
+Rheinischer Platz
+Essen Rathaus
+Hollestr.
+Wasserturm
+Wörthstr.
+Schwanenbuschstr.
+Parkfriedhof
+Dinnendahlstr.
+Knappschaftskrankenhaus Essen
+Stadtgarten Essen
+Steele
+# Oberhausen, Mülheim
+:112:#E8007E
+Oberhausen Neumarkt
+Sterkrade Bf
+MAN-Turbo
+Eisenheim
+OLGA-Park
+Neue Mitte
+Lipperfeld
+Feuerwache
+Oberhausen Hbf
+Luise-Albertz-Halle
+Obere Marktstr.
+Blücherstr. (Oberhausen)
+Hilgenberg
+Landwehr
+Willy-Brandt-Schule
+Sültenfuß
+Dümptener Str.
+Marienplatz
+Mülheim West
+Sandstr.
+Friedrich-Ebert-Str.
+Rathausmarkt
+Stadtmitte
+Kaiserplatz
+St.-Marien-Hospital
+Sportzentrum Südstraße
+Kuhlendahl
+Oppspring
+Tilsiter Str.
+Hauptfriedhof (Mülheim)
+# Gelsenkirchen
+:301:#60A558
+Gelsenkirchen Hbf
+Heinrich-König-Platz
+Musiktheater
+Leipziger Str.
+Bismarckstr.
+Bergwerk Consolidation
+Trinenkamp
+Zoom Erlebniswelt
+Erle Forsthaus
+Friesenstr.
+Marktstr.
+Erle Post
+Erle Krankenhaus
+Erle Breite Str.
+Middelicher Str.
+Haunerfeldstr.
+Hermann-Löns-Str.
+Erlestr.
+Buer Rathaus/Kunstmuseum:walk;Buer Rathaus
+Hagenstr.
+Vinckestr.
+Zeche Hugo
+Hugostr.
+Lohmühlenstr.
+Emil-Zimmermann-Allee
+Braukämperstr.
+Adlerstr. (Gelsenkirchen)
+Buer Süd Bf
+Pannschoppenstr.
+Hügelstr.
+Kärntener Ring
+Buerer Str.
+Schloss Horst
+Essener Str. (Gelsenkirchen)
+# Bochum, Gelsenkirchen, Wattenscheid
+:302:#59ABBD
+Buer Rathaus:walk;Buer Rathaus/Kunstmuseum
+Buer Bergmannsheil
+Berger See
+VELTINS-Arena
+Willy-Brandt-Allee
+Emscherstr.
+Stadthafen
+Ernst-Kuzorra-Platz
+Schalker Meile
+Berliner Brücke
+Grillostr.
+Grenzstr.
+Kennedyplatz
+Musiktheater
+Heinrich-König-Platz
+Gelsenkirchen Hbf
+Rheinelbestr.
+Wissenschaftspark
+Stephanstr.
+Gesamtschule Ückendorf
+Ückendorfer Platz
+Watermanns Weg
+Lohrheidestr.
+Freiheitstr.
+August-Bebel-Platz
+Wattenscheid Post
+Querstr.
+Vietingstr.
+Centrumplatz
+Alte Heide
+Elbinger Str.
+Goldhammer Str.
+Westpark
+Wattenscheider Str.
+Jacob-Mayer-Str./Jahrhunderthalle
+Bochumer Verein/Jahrhunderthalle
+Bochum Rathaus (Süd):walk;Bochum Rathaus
+Bochum Hbf
+Lohring
+Freigrafendamm
+Altenbochum Kirche
+Mettestr.
+Dannenbaumstr.
+Laer Mitte
+Max-Planck-Institut
+O-Werk
+Mark 51°7
+Alte Ümminger Str.
+Unterstr.
+Am Neggenborn
+Igelstr.
+Lessing-Schule
+Langendreer Markt
+Langendreer
+# Bochum
+:305:#AC5082
+Höntrop Kirche
+Brucknerstr.
+Röntgenstr. (Bochum)
+Leibnizstr.
+Engelsburger Str.
+Erzstr.
+Wattenscheider Str.
+Jacob-Mayer-Str./Jahrhunderthalle
+Bochumer Verein/Jahrhunderthalle
+Bochum Rathaus (Süd):walk;Bochum Rathaus
+Bochum Hbf
+Lohring
+Freigrafendamm
+Altenbochum Kirche
+Mettestr.
+Dannenbaumstr.
+Laer Mitte
+Max-Planck-Institut
+O-Werk
+Mark 51°7
+Alte Ümminger Str.
+Unterstr.
+Am Neggenborn
+Igelstr.
+Lessing-Schule
+Langendreer Markt
+Langendreer
+# Bochum, Wanne-Eickel
+:306:#FE736D
+Bochum Hbf
+Bochum Rathaus:walk;Bochum Rathaus (Süd)
+Brückstr.
+Präsident Bf
+Robertstr.
+Amtsstr. (Bochum)
+Hamme Kirche
+Bodelschwinghstr.
+Breslauer Str. (Bochum)
+Hordeler Str.
+Hannibal Einkaufscentrum
+Eickeler Str.
+Hannibalstr.
+Auf der Wenge
+Eickel Kirche
+Hugenpoth
+Heisterkamp
+Im Sportpark
+Solbad
+Am Buschmannshof
+Wanne-Eickel Hbf
+# Bochum, Hattingen
+:308/318:#62ADA0
+Schürbankstr. (Bochum)
+Holthauser Str.
+Gerthe Mitte
+Heinrichstr. (Bochum)
+Punges Feld
+Handwerksweg
+Kolpingplatz
+Nordbad
+Bochum Weserstr.
+Rottmannstr.
+Stahlwerke Bochum
+Vonovia Ruhrstadion
+Planetarium
+Bochum Hbf
+Bermude3eck/Musikforum
+Schauspielhaus
+Bergmannsheil
+Friederikastr.
+Kohlenstr.
+Knoopstr.
+Weitmar Mitte
+Schlosspark/Museum unter Tage
+Blankensteiner Str.
+Am Buchenhain
+Nevelstr.
+Am Röderschacht
+Am Feldbrand
+Südbad
+Linden Mitte
+Zentrum Augusta Linden
+Auf dem Holte
+Dahlhausen
+Kesterkamp
+Lewackerstr.
+Surenfeldstr.
+Surenfeld
+Oberwinzerfeld
+Denkmalstr.
+Hattingen Ruhrbrücke
+Bahnhofstr.
+Hattingen Mitte
+# Bochum, Witten
+:309:#2D5796
+Langendreer
+Langendreer Markt
+Rudolf-Steiner-Schule
+Auf dem Jäger
+Papenholz
+Crengeldanz
+Betriebshof Witten
+Witten Breite Str.
+Marienhospital (Witten)
+Witten Rathaus
+Bahnhofstr.
+Hans-Böckler-Str.
+Sprockhöveler Str.
+Hardel
+Friedrich-List-Str.
+Heven Hellweg
+Am Steinberg (Witten)
+Heven Dorf
+# Bochum, Witten
+:310:#AC5082
+Höntrop Kirche
+Brucknerstr.
+Röntgenstr. (Bochum)
+Leibnizstr.
+Engelsburger Str.
+Erzstr.
+Wattenscheider Str.
+Jacob-Mayer-Str./Jahrhunderthalle
+Bochumer Verein/Jahrhunderthalle
+Bochum Rathaus (Süd):walk;Bochum Rathaus
+Bochum Hbf
+Lohring
+Freigrafendamm
+Altenbochum Kirche
+Mettestr.
+Dannenbaumstr.
+Laer Mitte
+Max-Planck-Institut
+O-Werk
+Mark 51°7
+Alte Ümminger Str.
+Unterstr.
+Am Neggenborn
+Igelstr.
+Lessing-Schule
+Langendreer Markt
+Rudolf-Steiner-Schule
+Auf dem Jäger
+Papenholz
+Crengeldanz
+Betriebshof Witten
+Witten Breite Str.
+Marienhospital (Witten)
+Witten Rathaus
+Bahnhofstr.
+Hans-Böckler-Str.
+Sprockhöveler Str.
+Hardel
+Friedrich-List-Str.
+Heven Hellweg
+Am Steinberg (Witten)
+Heven Dorf
+# Bochum, Wanne-Eickel
+:316:#F18D2C
+Heinrichstr. (Bochum)
+Punges Feld
+Handwerksweg
+Kolpingplatz
+Nordbad
+Bochum Weserstr.
+Rottmannstr.
+Stahlwerke Bochum
+Vonovia Ruhrstadion
+Planetarium
+Bochum Hbf
+Bochum Rathaus:walk;Bochum Rathaus (Süd)
+Brückstr.
+Präsident Bf
+Robertstr.
+Amtsstr. (Bochum)
+Hamme Kirche
+Bodelschwinghstr.
+Breslauer Str. (Bochum)
+Hordeler Str.
+Hannibal Einkaufscentrum
+Eickeler Str.
+Hannibalstr.
+Auf der Wenge
+Eickel Kirche
+Hugenpoth
+Heisterkamp
+Im Sportpark
+Solbad
+Am Buschmannshof
+Wanne-Eickel Hbf
+# Düsseldorf
+:701:#FF7D24
+DOME/Am Hülserhof
+PSD BANK DOME
+Wahlerstr./JVA
+Rath
+Rotdornstr.
+Rath Mitte
+Am Schein
+Haeselerstr.
+Heinrichstr. (Düsseldorf)
+Derendorf
+Rather Str./Hochschule HSD
+Münsterplatz
+Dreieck
+Venloer Str.
+Nordstr. (Düsseldorf)
+Sternstr.
+Schadowstr.
+Steinstr./Königsallee
+Berliner Allee
+Luisenstr.
+Helmholtzstr.
+Sonnenstr. (Düsseldorf)
+Kruppstr.
+Gangelplatz
+Oberbilk
+Am Stufstock
+Schlesische Str.
+Am Hackenbruch
+Jägerstr.
+Eller Mitte
+Alt Eller
+Vennhauser Allee
+# Düsseldorf
+:704:#D12819
+Merziger Str.
+Straßburger Str.
+Alter Schlachthof
+Rather Str./Hochschule HSD
+St.-Vinzenz-Krankenhaus
+Lennéstr.
+Stockkampstr.
+Rochusmarkt
+Adlerstr. (Düsseldorf)
+Pempelforter Str.
+Worringer Platz
+Düsseldorf Hbf
+Mintropplatz
+Helmholtzstr.
+Fürstenplatz
+Morsestr.
+Färberstr.
+Karolingerplatz
+Auf'm Hennekamp
+Uni-Kliniken
+Universität Nord/Christophstr.
+# Düsseldorf
+:705:#C12D98
+Unterrath
+Am Röttchen
+Eckener Str.
+Elsässer Str.
+An der Piwipp
+Großmarkt
+Johannstr.
+Tannernstr.
+Spichernplatz
+Essener Str. (Düsseldorf)
+Dreieck
+Venloer Str.
+Nordstr. (Düsseldorf)
+Sternstr.
+Schadowstr.
+Steinstr./Königsallee
+Berliner Allee
+Luisenstr.
+Corneliusstr.
+Morsestr.
+Färberstr.
+Karolingerplatz
+Kopernikusstr. (Düsseldorf)
+Am Steinberg (Düsseldorf)
+# 705: Really: no way to reach Merowingerstr., Merowingerplatz, Moorenstr. from the outside world...
+!Merowingerstr.
+>Merowingerplatz
+>Moorenstr.>Kopernikusstr. (Düsseldorf)
+# Düsseldorf
+:706:#FF2E17
+Hamm
+Hammer Dorfstr.
+Hemmersbachweg
+Franziusstr.
+Wupperstr.
+Bilker Kirche
+Stadttor
+Landtag/Kniebrücke
+Poststr.
+Graf-Adolf-Platz
+Berliner Allee
+Steinstr./Königsallee
+Schadowstr.
+Sternstr.
+Marienhospital (Düsseldorf)
+Stockkampstr.
+Tußmannstr.
+# 706 unidirectional: Zoo -> Schillerplatz -> Brehmplatz;  Brehmplatz -> Zoo
+Zoo Düsseldorf
+>Schillerplatz
+>Brehmplatz>Zoo Düsseldorf
+Schumannstr.
+Lindemannstr.
+Lindenstr.
+Flingern
+Stadtwerke/Düsselstrand
+Kettwiger Str.
+Fichtenstr.
+Oberbilker Markt/Warschauer Str.
+Flügelstr.
+Kruppstr.
+Volksgarten
+Redinghovenstr.
+Auf'm Hennekamp
+Kopernikusstr. (Düsseldorf)
+Am Steinberg (Düsseldorf)
+# 706: Really: no way to reach Merowingerstr., Merowingerplatz, Moorenstr. from the outside world...
+!Merowingerstr.
+>Merowingerplatz
+>Moorenstr.>Kopernikusstr. (Düsseldorf)
+# Düsseldorf
+:707:#6D2382
+Unterrath
+Am Röttchen
+Eckener Str.
+Elsässer Str.
+An der Piwipp
+Großmarkt
+Johannstr.
+Tannernstr.
+Spichernplatz
+Essener Str. (Düsseldorf)
+# 707 unidirectional: Dreieck -> Marienhospital; Marienhospital -> Venloer Str. -> Dreieck
+Dreieck>Marienhospital (Düsseldorf)
+<Venloer Str.
+<Marienhospital (Düsseldorf)
+Schloss Jägerhof
+Jacobistr.
+Klosterstr.
+Charlottenstr./Oststr.
+Düsseldorf Hbf
+Mintropplatz
+Helmholtzstr.
+Fürstenplatz
+Morsestr.
+Bilker Allee/Friedrichstr.
+Kronprinzenstr. (Düsseldorf)
+Bilker Kirche
+Wupperstr.
+Franziusstr.
+Speditionstr.
+Medienhafen, Kesselstr.
+# Düsseldorf
+:708:#FE9AB9
+Heinrichstr. (Düsseldorf)
+Hansaplatz
+Grunerstr.
+Brehmplatz
+Schillerplatz
+Uhlandstr.
+Birkenstr.
+Worringer Platz
+Düsseldorf Hbf
+Stresemannplatz
+Berliner Allee
+Graf-Adolf-Platz
+Poststr.
+Landtag/Kniebrücke
+Polizeipräsidium Düsseldorf
+# Düsseldorf, Neuss
+:709:#FC52A7
+Gerresheim Krankenhaus
+Heinrich-Könn-Str.
+Auf der Hardt/LVR-Klinikum
+Pöhlenweg
+Staufenplatz
+Schlüterstr./Arbeitsagentur
+Engerstr.
+Hoffeldstr.
+Flingern
+Wetterstr.
+Birkenstr.
+Worringer Platz
+Düsseldorf Hbf
+Stresemannplatz
+Berliner Allee
+Graf-Adolf-Platz
+Poststr.
+Landtag/Kniebrücke
+Stadttor
+Bilker Kirche
+Völklinger Str. (Düsseldorf)
+Georg-Schulhoff-Platz
+Südfriedhof
+Josef-Kardinal-Frings-Brücke
+Rheinpark-Center Süd
+Langemarckstr.
+Stadthalle/Museum
+Landestheater
+Markt
+Glockhammer
+Niedertor
+Neuss Hbf
+Theodor-Heuss-Platz
+# Duisburg, Mülheim
+:901:#FDED01
+Mülheim Hbf
+Stadtmitte
+Schloss Broich
+Königstr.
+Hochschule Ruhr West
+Speldorf Bahnhof
+Hansastr.
+Speldorf Betriebshof
+Jakobstr.
+Rennbahn
+Raffelberg
+Monning
+Zoo Duisburg/Uni
+Schweizer Str.
+Lutherplatz
+Duisburg Hbf
+König-Heinrich-Platz
+Duisburg Rathaus
+Landesarchiv NRW
+Kasslerfelder Str.
+Albertstr.
+Vinckeweg
+Tausendfensterhaus
+Karlstr.
+Friedrichsplatz
+Ruhrort Bf
+Thyssen Tor 30
+Scholtenhofstr.
+Laar Kirche
+Neanderstr.
+Stockumer Str.
+Brauerei
+Beeck Denkmal
+Thyssen Kokerei
+Maternastr.
+Thyssen Verwaltung
+Wilfriedstr.
+Marxloh Pollmann
+Hermannstr.
+Lohstr.
+Morian-Stift
+Markgrafenstr. (Duisburg)
+Kampstr. (Duisburg)
+Hamborn Betriebshof
+Kopernikusstr. (Duisburg)
+Obermarxloh Schleife
+# Duisburg, Dinslaken, Walsum
+:903:#0082CA
+Dinslaken Bf
+Neustr.
+Trabrennbahn Dinslaken
+Pollenkamp
+Bärenstr.
+Watereck
+Vierlinden
+Fasanenstr.
+Walsum Betriebshof
+Walsum Rathaus
+Sonnenstr. (Walsum)
+Schwan
+Striepweg
+Heckmann
+Wolfstr.
+Marxloh Pollmann
+Rhein-Ruhr-Halle
+Hamborn Rathaus
+Hamborn Feuerwache
+Amsterdamer Str.
+Theodor-Heuss-Str.
+Landschaftspark Nord
+Brückelstr.
+Emilstr.
+Meiderich Bf
+Auf dem Damm
+Duissern U-Bf
+Duisburg Hbf
+König-Heinrich-Platz
+Steinsche Gasse
+Platanenhof
+Brückenplatz
+Siechenhausstr.
+Pauluskirche
+Marienhospital (Duisburg)
+Hochfeld Süd Bf/RheinPark
+Fischerstr. (Duisburg)
+Rheintörchenstr.
+Neuenhofstr.
+Ehinger Str.
+Heiligenbaumstr.
+Rheinstahl
+Tiger & Turtle
+Mannesmann Tor 1
+Mannesmann Tor 2
+# Dortmund
+:H-Bahn:#E00985
+Technologie-Zentrum
+Campus Süd:walk;Universität Dortmund
+Eichlinghofen
+!Campus Nord=Campus Süd
+# Solingen, Düsseldorf, Duisburg, Mülheim, Essen, Bochum, Dortmund
+:S1:#019043
+Solingen Hbf
+Vogelpark
+Hilden Süd
+Hilden
+Eller
+Eller Mitte
+Oberbilk
+Volksgarten
+Düsseldorf Hbf
+Wehrhahn
+Zoo Düsseldorf
+Derendorf
+Unterrath
+Düsseldorf Flughafen Bf
+Angermund
+Rahm
+Großenbaum
+Buchholz
+Schlenk
+Duisburg Hbf
+Styrum
+Mülheim Hbf
+Frohnhausen
+Essen West
+Essen Hbf
+Steele
+Steele Ost
+Eiberg
+Höntrop
+Ehrenfeld
+Bochum Hbf
+Langendreer West
+Langendreer
+Kley
+Oespel
+Universität Dortmund:walk;Campus Süd
+Dorstfeld Süd
+Dorstfeld
+Dortmund Hbf
+# Essen, Gelsenkirchen, Wanne-Eickel, Recklinghausen, Herne, Castrop-Rauxel, Dortmund
+:S2:#019043
+Essen Hbf
+Kray Nord
+Rotthausen
+Gelsenkirchen Hbf
+Wanne-Eickel Hbf
+Recklinghausen Hbf
+Herne Bf
+Castrop-Rauxel Hbf
+Mengede
+Nette/Oestrich
+Westerfilde
+Huckarde
+Wischlingen
+Dorstfeld
+Dortmund Hbf
+# Oberhausen, Mülheim, Essen, Hattingen
+:S3:#019043
+Oberhausen Hbf
+Styrum
+Mülheim West
+Mülheim Hbf
+Frohnhausen
+Essen West
+Essen Hbf
+Steele
+Steele Ost
+Horst
+Dahlhausen
+Hattingen
+Hattingen Mitte
+# Dortmund, Wickede, Unna
+:S4:#019043
+Lütgendortmund
+Somborn
+Germania
+Marten Süd
+Dorstfeld
+Dortmund West
+Möllerbrücke
+Stadthaus Dortmund
+Körne West
+Körne
+Knappschaftskrankenhaus Dortmund
+Brackel
+Asseln Mitte
+Wickede West
+Wickede
+Massen
+Königsborn
+Unna West
+Unna Hbf
+# Dortmund, Witten, Hagen
+:S5:#019043
+Dortmund Hbf
+Barop
+Kruckel
+Annen Nord
+Witten Hbf
+Wetter
+Vorhalle
+Hagen Hbf
+# Essen, Ratingen, Düsseldorf, Langenfeld, Köln
+:S6:#019043
+Essen Hbf
+Essen Süd
+Essen Stadtwald
+Hügel
+Werden
+Kettwig
+Kettwig Stausee
+Hösel
+Ratingen Ost
+Rath
+Rath Mitte
+Derendorf
+Zoo Düsseldorf
+Wehrhahn
+Düsseldorf Hbf
+Volksgarten
+Oberbilk
+Eller Süd
+Reisholz
+Benrath
+Garath
+Hellerhof
+Berghausen
+Langenfeld
+# Solingen, Remscheid, Wuppertal
+:S7:#019043
+Solingen Hbf
+Grünewald
+Solingen Mitte
+Schaberg
+Güldenwerth
+Remscheid Hbf
+Lennep
+Lüttringhausen
+Ronsdorf
+Oberbarmen
+Barmen
+Unterbarmen
+Wuppertal Hbf
+# Mönchengladbach, Neuss, Düsseldorf, Erkrath, Gruiten, Wuppertal, Schwelm, Gevelsberg, Hagen
+:S8:#019043
+Mönchengladbach Hbf
+Lürrip
+Korschenbroich
+Kleinenbroich
+Büttgen
+Neuss Hbf
+Am Kaiser
+Rheinpark-Center
+Hamm
+Völklinger Str. (Düsseldorf)
+Bilk
+Friedrichstadt
+Düsseldorf Hbf
+Flingern
+Gerresheim
+Erkrath
+Hochdahl
+Millrath
+Gruiten
+Vohwinkel Bf:vohwinkel;Vohwinkel Schwebebahn
+Sonnborn
+Zoologischer Garten Wuppertal
+Steinbeck
+Wuppertal Hbf
+Unterbarmen
+Barmen
+Oberbarmen
+Langerfeld
+Schwelm West
+Schwelm
+Gevelsberg West
+Kipp
+Gevelsberg Hbf
+Knapp
+Westerbauer
+Heubing
+Wehringhausen
+Hagen Hbf
+# Recklinghausen, Gladbeck, Bottrop, Essen, Langenberg, Neviges, Wuppertal, Schwelm, Gevelsberg, Hagen
+:S9:#019043
+Recklinghausen Hbf
+Herten
+Haltern
+Marl-Hamm
+Marl-Mitte
+Hassel
+Buer Nord
+Gladbeck West
+Boy
+Bottrop Hbf
+Dellwig Ost
+Gerschede
+Borbeck Bf
+Borbeck Süd Bf
+Essen West
+Essen Hbf
+Steele
+Überruhr
+Holthausen
+Kupferdreh
+Nierenhof
+Langenberg
+Neviges
+Rosenhügel
+Aprath
+Vohwinkel Bf:vohwinkel;Vohwinkel Schwebebahn
+Sonnborn
+Zoologischer Garten Wuppertal
+Steinbeck
+Wuppertal Hbf
+Unterbarmen
+Barmen
+Oberbarmen
+Langerfeld
+Schwelm West
+Schwelm
+Gevelsberg West
+Kipp
+Gevelsberg Hbf
+Knapp
+Westerbauer
+Heubing
+Wehringhausen
+Hagen Hbf
+# Düsseldorf, Neuss, Dormagen, Köln
+:S11:#019043
+Düsseldorf Flughafen Terminal
+Unterrath
+Derendorf
+Zoo Düsseldorf
+Wehrhahn
+Düsseldorf Hbf
+Friedrichstadt
+Bilk
+Völklinger Str. (Düsseldorf)
+Hamm
+Rheinpark-Center
+Am Kaiser
+Neuss Hbf
+Neuss Süd
+Norf
+Allerheiligen
+# overlap with KoelnBonn map
+Nievenheim
+# overlap with KoelnBonn map
+Dormagen
+# overlap with KoelnBonn map
+Dormagen Chempark
+# Kaarst, Neuss, Düsseldorf, Erkrath, Mettmann, Wuppertal
+:S28:#019043
+Kaarster See
+Kaarster Bahnhof
+Kaarst Mitte/Holzbüttgen
+IKEA Kaarst
+Neuss Hbf
+Am Kaiser
+Rheinpark-Center
+Hamm
+Völklinger Str. (Düsseldorf)
+Bilk
+Friedrichstadt
+Düsseldorf Hbf
+Flingern
+Gerresheim
+Erkrath Nord
+Neanderthal
+Mettmann Zentrum
+Mettmann Stadtwald
+Hahnenfurth/Düssel
+Vohwinkel Bf:vohwinkel;Vohwinkel Schwebebahn
+Sonnborn
+Zoologischer Garten Wuppertal
+Steinbeck
+Wuppertal Hbf
+# Langenfeld, Düsseldorf, Erkrath, Hochdahl, Gruiten, Wuppertal
+:S68:#019043
+# overlap with KoelnBonnn
+Langenfeld
+# overlap with KoelnBonn
+Berghausen
+Hellerhof
+Garath
+Benrath
+Reisholz
+Eller Süd
+Oberbilk
+Volksgarten
+Düsseldorf Hbf
+Flingern
+Gerresheim
+Erkrath
+Hochdahl
+Millrath
+Gruiten
+Vohwinkel Bf:vohwinkel;Vohwinkel Schwebebahn
+# Wuppertal
+:Schwebebahn:#4896D2
+Vohwinkel Schwebebahn:vohwinkel;Vohwinkel Bf
+Bruch
+Hammerstein
+Sonnborner Str.
+Zoo & Stadion
+Varresbecker Str.
+Westende
+Pestalozzistr.
+Robert-Daum-Platz
+Ohligsmühle
+Wuppertal Hbf
+Kluse
+Landgericht Wuppertal
+Völklinger Str. (Wuppertal)
+Loher Brücke
+Adlerbrücke
+Alter Markt
+Werther Brücke
+Wupperfeld
+Oberbarmen
+# Düsseldorf
+:SkyTrain:#00B9F2
+Düsseldorf Flughafen Bf
+Parkhaus 4
+Terminal A/B
+Düsseldorf Flughafen Terminal
+# Essen
+:U11:#312C7E
+Buerer Str.
+Schloss Horst
+Fischerstr. (Essen)
+Essen Alte Landstr.
+Boyer Str.
+Arenbergstr.
+Hesslerstr.
+II. Schichtstr.
+Karlsplatz
+Altenessen Mitte
+Kaiser-Wilhelm-Park
+Altenessen Bf
+Bäuminghausstr.
+Bamlerstr.
+Universität Essen
+Berliner Platz
+Hirschlandplatz
+Essen Hbf
+Philharmonie
+Rüttenscheider Stern
+Martinstr.
+Messe Ost/Gruga
+Messe West-Süd/Gruga
+# Essen
+:U17:#6AB5DC
+Karlsplatz
+Altenessen Mitte
+Kaiser-Wilhelm-Park
+Altenessen Bf
+Bäuminghausstr.
+Bamlerstr.
+Universität Essen
+Berliner Platz
+Hirschlandplatz
+Essen Hbf
+Bismarckplatz
+Planckstr.
+Gemarkenplatz
+Holsterhauser Platz
+Halbe Höhe
+Laubenweg
+Margarethenhöhe
+# Essen
+:U18:#0080C9
+Berliner Platz
+Hirschlandplatz
+Essen Hbf
+Bismarckplatz
+Savignystr./ETEC
+Hobeisenbrücke
+Breslauer Str. (Essen)
+Wickenburgstr.
+Rhein-Ruhr-Zentrum
+Rosendeller Str.
+Eichbaum
+Heißen Kirche
+Mühlenfeld
+Christianstr.
+Gracht
+Von-Bock-Str.
+Mülheim Hbf
+# Bochum
+:U35:#174694
+Hustadt
+Lennershof
+Ruhr-Universität
+Gesundheitscampus
+Markstr.
+Brenscheder Str.
+Wasserstr.
+Waldring
+Oskar-Hoffmann-Str.
+Bochum Hbf
+Bochum Rathaus (Süd):walk;Bochum Rathaus
+Deutsches Bergbau-Museum
+Feldsieper Str.
+Zeche Constantin
+Riemke Markt
+Rensingstr.
+Berninghausstr.
+Hölkeskampring
+Archäologie-Museum/Kreuzkirche
+Herne Mitte
+Herne Bf
+Schloss Strünkede
+# Dortmund
+:U41:#FCDC00
+Brambauer Verkehrshof
+Brambauer Krankenhaus
+Herrentheystr.
+Oetringhauser Str.
+Brechten Zentrum
+Wittichstr.
+Maienweg
+Waldesruh
+Grävingholz
+Externberg
+Amtsstr. (Dortmund)
+Zeche Minister Stein
+Güterstr.
+Fredenbaum
+Immermannstr./Klinikzentrum Nord
+Lortzingstr.
+Münsterstr.
+Leopoldstr.
+Dortmund Hbf
+Kampstr. (Dortmund)
+Stadtgarten Dortmund
+Stadthaus Dortmund
+Markgrafenstr. (Dortmund)
+Märkische Str.
+Karl-Liebknecht-Str.
+Willem-van-Vloten-Str.
+Hörde Bf
+Clarenberg
+# Dortmund
+:U42:#FBBA00
+Grevel
+Droote
+Scharnhorst Zentrum
+Flughafenstr.
+Gleiwitzstr.
+Kirchderne
+Franz-Zimmer-Siedlung
+Schulte-Rödding
+Bauernkamp
+An den Teichen
+Burgholz
+Eisenstr.
+Glückaufstr.
+Brunnenstr.
+Brügmannplatz
+Reinoldikirche
+Stadtgarten Dortmund
+Städtische Kliniken
+Möllerbrücke
+Kreuzstr.
+Theodor-Fliedner-Heim
+An der Palmweide
+Am Beilstück
+Barop Parkhaus
+Eierkampstr.
+Harkortstr.
+Hombruch Hallenbad
+Grotenbachstr.
+# Dortmund
+:U43:#00A991
+Wickede
+Dollersweg
+Wickede Post
+Bockumweg
+Eichwaldstr.
+Zugstr.
+Ruckebierstr.
+Am Hagedorn
+Asseln Applerbecker Str.
+Businkstr.
+Döringhoff
+In den Börten
+Brackel Verwaltungsstelle
+Brackel Kirche
+Oberdorfstr.
+Knappschaftskrankenhaus Dortmund
+Pothecke
+Rüschebrinkstr.
+Juchostr.
+Am Zehnthof
+Berliner Str.
+Von-der-Tann-Str.
+Funkenburg
+Lippestr.
+Ostentor
+Reinoldikirche
+Kampstr. (Dortmund)
+Westentor
+Unionstr.
+Heinrichstr. (Dortmund)
+Ofenstr.
+Ottostr.
+Wittener Str.
+Dorstfeld Betriebshof
+# Dortmund
+:U44:#7FD2E6
+Westfalenhütte
+Vincenzheim
+Borsigplatz
+Enscheder Str.
+Geschwister-Scholl-Str.
+Reinoldikirche
+Kampstr. (Dortmund)
+Westentor
+Unionstr.
+Heinrichstr. (Dortmund)
+Ofenstr.
+Ottostr.
+Wittener Str.
+Dorstfeld Betriebshof
+Poth
+Auf dem Brümmer
+Marten Süd
+Walbertstr./Schulmuseum
+# Dortmund
+:U45:#DC2A1B
+Fredenbaum
+Immermannstr./Klinikzentrum Nord
+Lortzingstr.
+Münsterstr.
+Leopoldstr.
+Dortmund Hbf
+Kampstr. (Dortmund)
+Stadtgarten Dortmund
+Stadthaus Dortmund
+Markgrafenstr. (Dortmund)
+Westfalenpark
+Remydamm
+Westfalenhallen
+Stadion
+# Dortmund
+:U46:#8874C7
+Brunnenstr.
+Brügmannplatz
+Reinoldikirche
+Stadtgarten Dortmund
+Saarlandstr.
+Polizeipräsidium Dortmund
+Westfalenhallen
+# Dortmund
+:U47:#A3D20B
+DO-Westerfilde
+Obernette
+Buschstr.
+Parsevalstr.
+Huckarde Bushof
+Insterburger Str.
+Hafen
+Schützenstr.
+Leopoldstr.
+Dortmund Hbf
+Kampstr. (Dortmund)
+Stadtgarten Dortmund
+Stadthaus Dortmund
+Markgrafenstr. (Dortmund)
+Märkische Str.
+Kohlgartenstr.
+Voßkuhle
+Lübkestr.
+Max-Eyth-Str.
+Stadtkrone Ost
+Hauptfriedhof (Dortmund)
+Allerstr./LWL-Klinik
+Westendorfstr.
+Schürbankstr. (Dortmund)
+Aplerbeck
+# Dortmund
+:U49:#FFBACD
+Hafen
+Schützenstr.
+Leopoldstr.
+Dortmund Hbf
+Kampstr. (Dortmund)
+Stadtgarten Dortmund
+Stadthaus Dortmund
+Markgrafenstr. (Dortmund)
+Westfalenpark
+Rombergpark
+Hacheney
+# Düsseldorf, Krefeld
+:U70:#5EB6D3
+Rheinstr.
+Krefeld Hbf
+Dießem
+Königshof
+Fischeln
+Grundend
+Görgesheide
+Hoterheide
+Kamperweg
+Bovert
+Haus Meer
+Forsthaus
+Landsknecht
+Lörick
+Löricker Str.
+Lohweg
+Heerdter Sandberg
+Comenius-Gymnasium
+Belsenplatz
+Barbarossaplatz
+Luegplatz
+Tonhalle/Ehrenhof
+Heinrich-Heine-Allee
+Steinstr./Königsallee
+Oststr. (Düsseldorf)
+Düsseldorf Hbf
+Handelszentrum/Moskauer Str.
+# Düsseldorf
+:U71:#52D3F7
+Rath
+Rotdornstr.
+Rath Mitte
+Am Schein
+Haeselerstr.
+Heinrichstr. (Düsseldorf)
+Hansaplatz
+Grunerstr.
+Brehmplatz
+Schillerplatz
+Uhlandstr.
+Wehrhahn
+Pempelforter Str.
+Schadowstr.
+Heinrich-Heine-Allee
+Benrather Str.
+Graf-Adolf-Platz
+Kirchplatz
+Bilk
+Suitbertusstr.
+Südring
+Aachener Platz
+Volmerswerther Str.
+Krahkampweg
+Hellriegelstr.
+# Düsseldorf, Ratingen
+:U72:#3DC7CB
+Ratingen Mitte
+Weststr.
+Europaring
+Gerhardstr.
+Felderhof
+Hubertushain
+Hirschweg
+Oberrath
+Rather Waldstadion
+Broich
+Mörsenbroicher Weg
+Graf-Recke-Str.
+Vautierstr.
+Schlüterstr./Arbeitsagentur
+Engerstr.
+Lindemannstr.
+Uhlandstr.
+Wehrhahn
+Pempelforter Str.
+Schadowstr.
+Heinrich-Heine-Allee
+Benrather Str.
+Graf-Adolf-Platz
+Kirchplatz
+Bilk
+Karolingerplatz
+Auf'm Hennekamp
+Uni-Kliniken
+Universität Nord/Christophstr.
+Südpark
+Werstener Dorfstr.
+Opladener Str.
+Ickerswarder Str.
+Elbruchstr.
+Holthausen
+Niederheid
+Am Trippelsberg
+Schöne Aussicht
+Kappeler Str.
+Schloss Benrath
+Urdenbacher Allee
+Benrath
+Benrath Betriebshof
+# Düsseldorf
+:U73:#2F6AB9
+Gerresheim
+Morper Str.
+Hardenbergstr.
+Dörpfeldstr.
+Schönaustr.
+Gerresheim Rathaus
+Von-Gahlen-Str.
+Friedingstr.
+# U73 unidirectional: Pöhlenweg -> Auf der Hardt; Auf der Hardt -> Vor der Hardt -> Pöhlenweg
+Auf der Hardt/LVR-Klinikum
+>Vor der Hardt
+>Pöhlenweg>Auf der Hardt/LVR-Klinikum
+Staufenplatz
+Schlüterstr./Arbeitsagentur
+Engerstr.
+Lindemannstr.
+Uhlandstr.
+Wehrhahn
+Pempelforter Str.
+Schadowstr.
+Heinrich-Heine-Allee
+Benrather Str.
+Graf-Adolf-Platz
+Kirchplatz
+Bilk
+Karolingerplatz
+Auf'm Hennekamp
+Uni-Kliniken
+Universität Nord/Christophstr.
+Südpark
+Universität Ost/Botanischer Garten
+# Düsseldorf, Neuss
+:U75:#00A2CB
+Neuss Hbf
+Blücherstr. (Neuss)
+Am Kaiser
+Vogesenstr.
+Handweiser
+Aldekerkstr.
+Heesenstr.
+Nikolaus-Knopp-Platz
+Heerdter Krankenhaus
+Drususstr.
+Belsenplatz
+Barbarossaplatz
+Luegplatz
+Tonhalle/Ehrenhof
+Heinrich-Heine-Allee
+Steinstr./Königsallee
+Oststr. (Düsseldorf)
+Düsseldorf Hbf
+Handelszentrum/Moskauer Str.
+Kettwiger Str.
+Ronsdorfer Str.
+Lierenfeld Betriebshof
+Schlesische Str.
+Am Hackenbruch
+Jägerstr.
+Eller Mitte
+Alt Eller
+Vennhauser Allee
+# Düsseldorf, Krefeld
+:U76:#006CBC
+Rheinstr.
+Krefeld Hbf
+Dießem
+Königshof
+Fischeln
+Grundend
+Görgesheide
+Hoterheide
+Kamperweg
+Bovert
+Haus Meer
+Forsthaus
+Landsknecht
+Lörick
+Löricker Str.
+Lohweg
+Prinzenallee
+Heerdter Sandberg
+Comenius-Gymnasium
+Belsenplatz
+Barbarossaplatz
+Luegplatz
+Tonhalle/Ehrenhof
+Heinrich-Heine-Allee
+Steinstr./Königsallee
+Oststr. (Düsseldorf)
+Düsseldorf Hbf
+Oberbilker Markt/Warschauer Str.
+Ellerstr.
+Oberbilk
+Kaiserslauterner Str.
+Provinzialplatz
+Werstener Dorfstr.
+Opladener Str.
+Ickerswarder Str.
+Elbruchstr.
+Holthausen
+# Düsseldorf
+:U77:#5C98D3
+Am Seestern
+Prinzenallee
+Heerdter Sandberg
+Comenius-Gymnasium
+Belsenplatz
+Barbarossaplatz
+Luegplatz
+Tonhalle/Ehrenhof
+Heinrich-Heine-Allee
+Steinstr./Königsallee
+Oststr. (Düsseldorf)
+Düsseldorf Hbf
+Handelszentrum/Moskauer Str.
+Kettwiger Str.
+Ronsdorfer Str.
+Lierenfeld Betriebshof
+# Düsseldorf
+:U78:#00B2ED
+MERKUR Spiel-Arena/Messe Nord
+Mörikestr.>Sportpark Nord/Europaplatz
+Freiligrathplatz
+Messe Ost/Stockumer Kirchstr.
+Nordpark/Aquazoo
+Theodor-Heuss-Brücke
+Kennedydamm
+ERGO-Platz/Klever Str.
+Heinrich-Heine-Allee
+Steinstr./Königsallee
+Düsseldorf Hbf
+!Sportpark Nord/Europaplatz>MERKUR Spiel-Arena/Messe Nord
+# Düsseldorf, Duisburg
+:U79:#00B1A0
+Meiderich Bf
+Duissern U-Bf
+Duisburg Hbf
+Steinsche Gasse
+Grunewald
+Kulturstr.
+Sittardsberg
+St.-Anna-Krankenhaus
+Kesselsberg
+Froschenteich
+Wittlaer
+Kalkumer Schlossallee
+Klemensplatz
+Lohausen
+Freiligrathplatz
+Messe Ost/Stockumer Kirchstr.
+Nordpark/Aquazoo
+Theodor-Heuss-Brücke
+Kennedydamm
+ERGO-Platz/Klever Str.
+Heinrich-Heine-Allee
+Steinstr./Königsallee
+Düsseldorf Hbf
+Oberbilk
+Kaiserslauterner Str.
+Werstener Dorfstr.
+Uni Ost/Botanischer Garten
+# Düsseldorf
+:U83:#083EA1
+Gerresheim Krankenhaus
+Heinrich-Könn-Str.
+Auf der Hardt/LVR-Klinikum
+Pöhlenweg
+Staufenplatz
+Schlüterstr./Arbeitsagentur
+Engerstr.
+Lindemannstr.
+Uhlandstr.
+Wehrhahn
+Pempelforter Str.
+Schadowstr.
+Heinrich-Heine-Allee
+Benrather Str.
+Graf-Adolf-Platz
+Kirchplatz
+Bilk
+Suitbertusstr.
+Südring
+Aachener Platz
+Volmerswerther Str.
+Krahkampweg
+Hellriegelstr.
